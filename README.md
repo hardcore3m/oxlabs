@@ -1,23 +1,44 @@
 
-# Api express com MongoDb Atlas
+# OxLabs
 
-Modelo de api com autenticação de usuário e token de autenticação.
+Aplicação para listagem de ferramentas, documentações, artigos e exemplos de códigos para aprimoramento e desempenho no desenvolvimento e busca de artigos, notícias e informações sobre tecnologia da informação
 
 ## Funcionalidades
 
-- Cria usuário
-- Login com token de autenticação
-- Restringe o conteudo de acordo com a role ou a ausência dela
+### Disponíveis sem autenticação
+
+- Listar e ler comandos e funções de aplicações
+- Listar e ler notícias e artigos sobre TI
+- Listar sites, ferramentas e utilidades
+- Utilizar listas e ferramentas
+
+### Disponíveis a usuários
+
+- CRUD  de comandos, notícias, funções(microserviços), tutoriais, ferramentas, pacotes, etc.
+
+### Disponíveis a moderadores
+
+- CRUD  de Categorias, Tipos e modos de classificação
+- Revogação ou alteração de status de usuário
+
+### Disponíveis a Administradores
+
+- Conceder e revogar privilégios a moderadores e administradores
+- Alterar diretamente o objeto Usuário
 
 ## Desenvolvimento
 
 ### Ambiente
-NodeJs
-### Database
-MongoDb
-### Dependências
-bcryptjs, cookie-session, cors, express, jsonwebtoken, mongoose, uuid
 
+NodeJs
+
+### Database
+
+MongoDb
+
+### Dependências
+
+bcryptjs, cookie-session, cors, express, jsonwebtoken, mongoose, uuid
 
 ## Rodando localmente
 
@@ -44,7 +65,6 @@ Inicie o servidor
 ```bash
   npm start
 ```
-
 
 ## Documentação da API
 
@@ -84,7 +104,6 @@ Inicie o servidor
 | :---------- | :--------- | :---------------------------------- |
 | `token` | `x-access-token` | **Cookie Obrigatório**  |
 
-
 #### Retorna um item
 
 ```http
@@ -110,6 +129,3 @@ Inicie o servidor
 | header   | Tipo       | Descrição                           |
 | :---------- | :--------- | :---------------------------------- |
 | `token` | `x-access-token` | **Cookie Obrigatório** Acesso somente a administradores  |
-
-
-
