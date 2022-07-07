@@ -1,5 +1,6 @@
-
 # OxLabs
+
+![Logo](https://raw.githubusercontent.com/hardcore3m/oxlabs/main/src/public/img/logo.png)
 
 Aplicação para listagem de ferramentas, documentações, artigos e exemplos de códigos para aprimoramento e desempenho no desenvolvimento e busca de artigos, notícias e informações sobre tecnologia da informação
 

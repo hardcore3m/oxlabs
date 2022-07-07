@@ -1,0 +1,129 @@
+[{
+    "name":"Grapefruit",
+    "colors":["#Ed5565","#da4453"],
+    "group":["Tons de Vermelho"]
+},
+{
+    "name":"Bittersweet",
+    "colors":["#fc6e51","#e9573f"],
+    "group":["Tons de Laranja"]
+},
+{
+    "name":"Sunflower",
+    "colors":["#ffce54","#f68b42"],
+    "group":["Tons de Amarelo"]
+},
+{
+    "name":"Grass",
+    "colors":["#add468","#8cc152"],
+    "group":["Tons de Verde"]
+},
+
+{
+    "name":"Mint",
+    "colors":["#48cfad","#37bc9b"],
+    "group":["Tons de Verde"]
+},
+{
+    "name":"Aqua",
+    "colors":["#4fc1e9","#3bafda"],
+    "group":["Tons de Azul"]
+},
+{
+    "name":"Blue Jeans",
+    "colors":["#5d9cec","#4A89dc"],
+    "group":["Tons de Azul"]
+},
+{
+    "name":"Lavender",
+    "colors":["#AC92Ec","#967adc"],
+    "group":["Tons de Roxo"]
+},
+{
+    "name":"Pink Rose",
+    "colors":["#ec87c0","#d770ad"],
+    "group":["Tons de Rosa"]
+},
+{
+    "name":"Light Gray",
+    "colors":["#f5f7fa","#e6e9ed"],
+    "group":["Tons de Cinza"]
+},
+{
+    "name":"Medium Gray",
+    "colors":["#CCD1d9","#AAb2bd"],
+    "group":["Tons de Cinza"]
+},
+{
+    "name":"Dark Gray",
+    "colors":["#656d78","#434a54"],
+    "group":["Tons de Cinza"]
+},
+{
+    "name":"Saturation",
+    "colors":["#2eb8e5","#662ee5","#e52e62","#e5882e","#e5dc2e","#2ee54b"],
+    "group":"Brightness & Saturation"
+},
+{
+    "name":"Get reddy",
+    "colors":["#Ed5565","#da4453","Red"],
+    "group":["Tons de Vermelho"]
+},
+{
+    "name":"Papaya",
+    "colors":["Orange","#fc6e51","#e9573f"],
+    "group":["Tons de Laranja"]
+},
+{
+    "name":"Summer",
+    "colors":["Yellow","#ffce54","#f68b42"],
+    "group":["Tons de Amarelo"]
+},
+{
+    "name":"Frog skin",
+    "colors":["Limegreen","#add468","#8cc152"],
+    "group":["Tons de Verde"]
+},
+
+{
+    "name":"Sallad",
+    "colors":["Darkgreen","#48cfad","#37bc9b"],
+    "group":["Tons de Verde"]
+},
+{
+    "name":"Angra",
+    "colors":["Skyblue","#4fc1e9","#3bafda"],
+    "group":["Tons de Azul"]
+},
+{
+    "name":"Deep ocean",
+    "colors":["Royalblue","#5d9cec","#4A89dc"],
+    "group":["Tons de Azul"]
+},
+{
+    "name":"Violet's bloom",
+    "colors":["#8a2be2","#AC92Ec","#967adc"],
+    "group":["Tons de Roxo"]
+},
+{
+    "name":"Penelope pitstop",
+    "colors":["#ffc0cb","#ec87c0","#d770ad"],
+    "group":["Tons de Rosa"]
+},
+{
+    "name":"Library's comfort",
+    "colors":["#f5f7fa","#e6e9ed"],
+    "group":["Tons de Cinza"]
+},
+{
+    "name":"Neuter",
+    "colors":["#CCD1d9","#AAb2bd","#808080"],
+    "group":["Tons de Cinza"]
+},
+{
+    "name":"Almost Dark",
+    "colors":["#333333","#656d78","#434a54"],
+    "group":["Tons de Cinza"]
+}
+
+]

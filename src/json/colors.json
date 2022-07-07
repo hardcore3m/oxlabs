@@ -1,0 +1,124 @@
+[{
+             "name": "Vermelho",
+             "tag": "Red",
+             "darkColor": true,
+             "emotions": ["Excitação", "Energia", "Paixão", "Coragem", "Atenção"],
+             "industry": ["Entretenimento", "Alimentação", "Esporte", "Proteção contra incêndio", "Produtos Infantis"],
+             "usedFor": ["Estímulo", "Demonstrar urgência", "Chamar Atenção", "Perigo", "Encorajamento"],
+             "pairing": ["#ED5565", "#DA4453"]
+         },
+         {
+             "name": "Laranja",
+             "tag": "Orange",
+             "darkColor": true,
+             "emotions": ["Otimismo", "Independência", "Aventura", "Criatividade", "Diversão"],
+             "industry": ["Entretenimento", "Alimentação", "Esporte", "Transporte", "Arte"],
+             "usedFor": ["Estímulo", "Comunicação", "Chamar Atenção", "Expressar liberdade", "Fascínio"],
+             "pairing": ["#FC6E51", "#E9573F"]
+         },
+         {
+             "name": "Amarelo",
+             "tag": "Yellow",
+             "darkColor": false,
+             "emotions": ["Entusiasmo", "Oportunidade", "Espontaneidade", "Felicidade", "Positividade"],
+             "industry": ["Alimentação", "Esportes", "Transportes", "Viagens", "Lazer"],
+             "usedFor": ["Estímulo", "Encorajar relexamento", "Despertar Consciência", "Energizar", "Afetar o humor"],
+             "pairing": ["#FFCE54", "#F6BB42"]
+         },
+         {
+             "name": "Verde Claro",
+             "tag": "Limegreen",
+             "darkColor": false,
+             "emotions": ["Cerscimento", "Harmonia", "Fertilidade", "Infantilidade", "Dependência"],
+             "industry": ["Meio Ambiente", "Lazer", "Energia alternativa", "Entretenimento", "Educação"],
+             "usedFor": ["Restaurar energias", "Promover crescimento", "Nutrição", "Rejuvenescimento"],
+             "pairing": ["#A0D468", "#8CC152"]
+         },
+         {
+             "name": "Verde Escuro",
+             "tag": "Darkgreen",
+             "darkColor": true,
+             "emotions": ["Segurança", "Harmonia", "Estabilidade", "Confiabilidade", "Equilíbrio"],
+             "industry": ["Meio ambiente", "Finanças", "Mercado imobiliário", "Mercado Rural", "ONG's"],
+             "usedFor": ["Relexamento", "Equilíbrio", "Revitalização", "Encorajamento", "Posse"],
+             "pairing": ["#48CFAD", "#37BC9B"]
+         },
+         {
+             "name": "Azul Claro",
+             "tag": "Skyblue",
+             "darkColor": false,
+             "emotions": ["Liberdade", "Auto-Expressão", "Credibilidade", "Sabedoria", "Alegria"],
+             "industry": ["Entretenimento", "Comunicação", "Produtos infantis", "Tecnologia", "Aviação"],
+             "usedFor": ["Chamar atenção", "Inspirar credibilidade", "Sugerir precisão", "Comunicar consciênca",
+                 "Estimular produtividade"
+             ],
+             "pairing": ["#4fc1e9", "#3bafda"]
+         },
+         {
+             "name": "Azul Escuro",
+             "tag": "Royalblue",
+             "darkColor": true,
+             "emotions": ["Confiança", "Responsabilidade", "Honestidade", "Lealdade", "Segurança interior"],
+             "industry": ["Segurança", "Finanças", "Tecnologia", "Saúde", "Contabilidade"],
+             "usedFor": ["Reduzir Stress", "Provocasr calma", "Relaxamento", "Segurança", "Demonstrar ordem"],
+             "pairing": ["#5d9ced", "#4A89dc"]
+         },
+         {
+             "name": "Violeta",
+             "tag": "Blueviolet",
+             "darkColor": true,
+             "emotions": ["Imaginação", "Espiritualidade", "Compaixão", "Sensitividade", "Mistério"],
+             "industry": ["Humanitarismo", "Físico", "Religiosidade"],
+             "usedFor": ["Encorajar criatividade", "Inspiração", "Combinar sabedoria e poder",
+                 "Criar a impressão de luxo", "Intuição"
+             ],
+             "pairing": ["#ac92ec", "#967adc"]
+         },
+         {
+             "name": "Rosa",
+             "tag": "Pink",
+             "darkColor": false,
+             "emotions": ["Compaixão", "Amor", "Inocência", "Diversão", "Asmiração"],
+             "industry": ["Produtos infantis", "Produtos femininos", "Beleza", "Moda"],
+             "usedFor": ["Comunicar energia", "Aumentar pulsação", "Motivar ação", "Fascínio",
+                 "Encorajar criatividade"
+             ],
+             "pairing": ["#ec87c0", "#d770ad"]
+         },
+         {
+             "name": "Marrom",
+             "tag": "Maroon",
+             "darkColor": true,
+             "emotions": ["Reliabilidade", "Estabilidade", "Honestidade", "Conforto", "Natureza"],
+             "industry": ["Agricultura", "Construção", "Transportes", "Legislação", "Alimentação"],
+             "usedFor": ["Estabilizar", "Impor senso comum", "Suprimir emoções", "Demonstrar acolhimento"],
+             "pairing": ["Saddlebrown", "Peru"]
+         },
+         {
+             "name": "Cinza",
+             "tag": "Gray",
+             "darkColor": true,
+             "emotions": ["Neutralidade", "Praticidade", "Conservação", "Formalidade", "Quietude"],
+             "industry": ["Indústrias em geral", "Transportes"],
+             "usedFor": ["Criar senso de compostura", "Suprimir emoções", "Atemporalidade", "Comunicar maturidade"],
+             "pairing": ["#ccd1d9", "#aab2bd"]
+         },
+         {
+             "name": "Preto",
+             "tag": "Black",
+             "darkColor": true,
+             "emotions": ["Poder", "Controle", "Autoridade", "Disciplina", "Elegância"],
+             "industry": ["Industrias em geral", "Beleza", "Luxo", "Transportes de luxo"],
+             "usedFor": ["Ocultar emoções", "Intimidação", "Irradiar autoridade", "Criar medo", "Mistério"],
+             "pairing": ["#656d78", "#434a54"]
+         },
+         {
+             "name": "Branco",
+             "tag": "Antiquewhite",
+             "darkColor": false,
+             "emotions": ["Paz", "Pureza", "Limpeza", "Inocência", "Iluminação"],
+             "industry": ["Medicina", "Religiosidade"],
+             "usedFor": ["Cura", "Precisão", "Incentivar a calma", "Relexamento", "Sensação de clareza"],
+             "pairing": ["#f5f7fa", "#e6e9ed"]
+         }
+     ]
